@@ -10,7 +10,7 @@ Reporting: View total inventory value and filter products by category or stock l
 API Access: RESTful API for integration with other systems.
 
 
-git clone https://github.com/yourusername/inventory-management-system.git
+git clone https://github.com/sainisahab786/cerebulb_inventory_management_system.git
 cd inventory-management-system
 
 
